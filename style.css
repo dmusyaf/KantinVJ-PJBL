@@ -15,7 +15,7 @@ body {
 .container-layar {
     /* Di HP, kontainer akan memenuhi seluruh lebar layar */
     width: 100%; 
-    min-height: 100vh; /* Setidaknya setinggi viewport di HP */
+    min-height: 100dvh; /* Setidaknya setinggi viewport di HP */
     background-color: white; /* Latar belakang kontainer */
 }
 .heading {
