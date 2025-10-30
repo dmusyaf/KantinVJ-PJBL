@@ -270,7 +270,7 @@ body {
 /* Terapkan gaya ini hanya ketika lebar layar di atas 768px (Desktop/Tablet) */
 @media screen and (min-width: 768px) {
     
-    .main-container-layar {
+    .-container-layar {
         width: 400px; /* Lebar HP umumnya sekitar 360px-450px */
         
         /* Tinggi: Atur tinggi seperti HP (rasio 9:16) */
