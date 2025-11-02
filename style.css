@@ -43,7 +43,7 @@ body {
   justify-content: center;
   align-items: center;
   background: rgba(0, 0, 0, 0.5);
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(2px);
 }
 .navigasi ul {
   width: 100%;
@@ -171,6 +171,10 @@ p {
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+.list-kantin {
+  width: 100vw;
+  height: 100%;
 }
 .list-kantin ul li {
   display: flex;
